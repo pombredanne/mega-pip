@@ -8,7 +8,7 @@ setuptools.setup(
     version='1.0',
     author='Aarav Borthakur',
     author_email='gadhaguy13@gmail.com',
-    description='Python packaging and distrubution made easy.',
+    description='Python packaging and distribution made easy.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/gadhagod/mega-pip',
